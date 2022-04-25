@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Portfolio Website with Bootstrap",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Portfolio Website with Bootstrap"
+  }
+}
